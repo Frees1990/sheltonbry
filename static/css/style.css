@@ -1,0 +1,20 @@
+body {
+    background-color: bisque;
+}
+
+/* -- Navigation */
+.custom-nav {
+    background-color: #FAECD9;
+    z-index: 4;
+    position: fixed;
+    top: 0;
+  }
+
+  /* --Registration Form */
+.registrationpage{
+    margin-top: 100px;
+}
+.custom-card {
+    background-color: #FAECD9;
+    margin-bottom: 5rem;
+  }
